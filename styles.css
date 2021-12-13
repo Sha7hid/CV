@@ -1,5 +1,5 @@
 body {
-  background-color: powderblue;
+  background-color: #EAF6F6;
 }
 
 hr {
@@ -8,4 +8,10 @@ hr {
   width: 5%;
   border-top: dotted white;
   border-color: grey;
+}
+h1 {
+  color:#66bfbf
+}
+h3{
+  color: #66bfbf
 }
