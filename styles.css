@@ -138,14 +138,14 @@ color:#EAF6F6;
 a:hover{
   color:#EAF6F6;
 }
-@media (max-width:1028px) {
+@media (max-width:360px) {
 h1{
-  font-size:400%;
+  font-size:200%;
   margin-top: 0;
 
 }
 .iam{
-  font-size:200%;
+  font-size:90%;
 }
 .top-cloud{
   position: relative;
